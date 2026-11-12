@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my skills, projects, achievements, education, and professional experience as a Computer Science and Business Systems undergraduate and aspiring Full-Stack Developer.
 
-**Live Website:** https://soumik-portfolio-2.vercel.app/
+**Live Website:** https://sp-weld-omega.vercel.app/
 
 **GitHub Repository:** https://github.com/soumik88s/SP
 
